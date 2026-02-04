@@ -1,0 +1,1 @@
+# csnp-public-architecture
